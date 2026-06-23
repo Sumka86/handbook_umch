@@ -6,4 +6,4 @@
 
 Тайлан бөглөх тайлант үеийг сонгон тайлан бөглөх товч дарж Төрийн өмчийн бодлого зохицуулалтын газраас боловсруулсан маягтын дагуу мэдээллийг бүртгэнэ.
 
-<figure><img src="../../.gitbook/assets/image (565).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (564).png" alt=""><figcaption></figcaption></figure>

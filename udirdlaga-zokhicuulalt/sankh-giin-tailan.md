@@ -2,4 +2,4 @@
 
 Сангийн яамны eBalance системтэй холбогдож Санхүү байдлын тайлан, Орлогын дэлгэрэнгүй тайлан, Өмчийн өөрчлөлтийн тайлан, Мөнгөн гүйлгээний тайлангуудыг татаж авсан байдлаар харуулна.
 
-<figure><img src="../.gitbook/assets/image (567).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (566).png" alt=""><figcaption></figcaption></figure>

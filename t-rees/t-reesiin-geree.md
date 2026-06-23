@@ -6,4 +6,4 @@
 
 Бүртгэх товч дарж түрээсийн гэрээтэй холбоотой мэдээллүүдийг талбарт бөглөн хадгалах товч дарна.
 
-<figure><img src="../.gitbook/assets/image (619).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (618).png" alt=""><figcaption></figcaption></figure>
